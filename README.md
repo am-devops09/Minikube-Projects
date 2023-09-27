@@ -1,3 +1,4 @@
+## git commands
 echo "# Minikube-Projects" >> README.md
 git init
 git add README.md
